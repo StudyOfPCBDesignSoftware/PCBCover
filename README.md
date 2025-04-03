@@ -30,7 +30,7 @@ The project contains the following three subdirectories:
 Contains baseline algorithm implementations used for comparison with PCBCover, including:
 
 - `HIS`
-- `ECORD`
+- `RECORD`
 - `Swarm`
 
 > 🔹 **Note**: For the default method (`PCBSmith`), please download it separately.
